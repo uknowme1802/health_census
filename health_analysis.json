@@ -1,0 +1,56 @@
+{
+    "conditions": [
+      {
+        "name": "Thyroid",
+        "imagesrc":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fkent-ent.com%2Fthyroid-gland-and-tumours%2F&psig=AOvVaw1lcWTebWQQ27LIEsDl0jDV&ust=1737284917564000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiqn-eQ_4oDFQAAAAAdAAAAABAE",
+        "symptoms": [
+          "Fatigue",
+          "Weight gain or loss",
+          "Dry skin",
+          "Muscle weakness",
+          "Irregular menstrual periods"
+        ],
+        "prevention": [
+          "Eat a balanced diet",
+          "Exercise regularly",
+          "Get regular check-ups"
+        ],
+        "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+      },
+      {
+        "name": "Diabetes",
+        "imagesrc":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lanermc.org%2Fcommunity%2Flane-health-blog%2Funderstanding-the-3-types-of-diabetes&psig=AOvVaw1FVAcXF0wJq9C-RCBPEWtS&ust=1737285033835000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLigpJ6R_4oDFQAAAAAdAAAAABAE",
+        "symptoms": [
+          "Frequent urination",
+          "Increased thirst",
+          "Blurry vision",
+          "Fatigue",
+          "Slow healing of cuts or sores"
+        ],
+        "prevention": [
+          "Maintain a healthy weight",
+          "Follow a balanced diet",
+          "Regular exercise"
+        ],
+        "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+      },
+      {
+        "name": "High Blood Pressure",
+        "imagesrc":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mountelizabeth.com.sg%2Fhealth-plus%2Farticle%2F5-causes-of-high-blood-pressure&psig=AOvVaw3A8V7442y2glSYG0F7nPVT&ust=1737285077319000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC--saR_4oDFQAAAAAdAAAAABAP",
+        "symptoms": [
+          "Headaches",
+          "Shortness of breath",
+          "Chest pain",
+          "Dizziness",
+          "Blurred or double vision"
+        ],
+        "prevention": [
+          "Reduce salt intake",
+          "Exercise regularly",
+          "Maintain a healthy weight"
+        ],
+        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+      }
+    ]
+  }
+  
